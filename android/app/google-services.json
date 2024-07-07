@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985222806154",
+    "project_id": "bacakomik-app",
+    "storage_bucket": "bacakomik-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985222806154:android:c3c7b370e4f9364443cb73",
+        "android_client_info": {
+          "package_name": "com.example.komikoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJR_KWaepdbrKV3VIaxiipLFq4SIHFlGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
